@@ -39,3 +39,12 @@ h3{
     height: 300px;
     padding: 05%;
 }
+.past{
+    padding: 02%;
+    margin-left: 02;
+}
+.lines{
+    width: 20%;
+    display: flex;
+    text-align: center;
+}
