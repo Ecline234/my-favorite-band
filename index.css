@@ -1,12 +1,12 @@
- body{
+ html{
     background-color: burlywood;
-    
 }
 h1{
     border-color: darkblue;
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
+    text-align: center;
 }
 h2{
     border-color: darkgoldenrod;
@@ -26,14 +26,16 @@ h3{
     font-family: fantasy;
     font-weight: bold;
 }
-.article{
-    image-orientation: from-image;
-    order: initial;
-    shape-image-threshold: initial;
-    box-shadow: chocolate;
+.profiles{
+    display: flex;
 }
-.id{
+.profile{
+    width: 25%;
+    margin: 10px;
+    text-align: center;
+}
+.main-picture{
     width: 300px;
     height: 300px;
-    border-radius: 200px;
+    padding: 05%;
 }
