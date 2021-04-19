@@ -28,17 +28,15 @@ h3{
 }
 .profiles{
     display: flex;
+    text-align: center;
 }
 .profile{
     width: 25%;
     margin: 10px;
     text-align: center;
+    float: right;
 }
-.main-picture{
-    width: 300px;
-    height: 300px;
-    padding: 05%;
-}
+    
 .past{
     padding: 02%;
     margin-left: 02;
@@ -50,4 +48,16 @@ h3{
 }
 h6{
 text-align: center;
+}
+#heading{
+    text-align: center;
+    display: block;
+    width: 50%px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#heading img{
+    width: 200px;
+    height: 200px;
 }
