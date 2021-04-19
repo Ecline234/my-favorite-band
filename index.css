@@ -44,11 +44,7 @@ h3{
 .lines{
     width: 20%;
     display: flex;
-    text-align: center;
-}
-h6{
-text-align: center;
-}
+    }
 #heading{
     text-align: center;
     display: block;
@@ -60,4 +56,12 @@ text-align: center;
 #heading img{
     width: 200px;
     height: 200px;
+}
+.labels{
+    image align-items: transform;
+    text-align: before;
+    image
+}
+.a{
+    text-align: center;
 }
