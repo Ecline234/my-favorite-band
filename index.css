@@ -39,12 +39,14 @@ h3{
     
 .past{
     padding: 02%;
-    margin-left: 02;
+    margin-left: 02%;
 }
 .lines{
     width: 20%;
     display: flex;
-    }
+    justify-content: after;
+    align-items: ;
+}
 #heading{
     text-align: center;
     display: block;
@@ -60,7 +62,6 @@ h3{
 .labels{
     image align-items: transform;
     text-align: before;
-    image
 }
 .a{
     text-align: center;
