@@ -51,14 +51,14 @@ h3{
 .lines{
     /* width: 20%; */
     display: flex;
-    justify-content: after;
+    justify-content: space-around;
     align-items: center;
 }
 .songs{
     /* width: 33.33%; */
     display: flex;
     flex-direction: row;
-    justify-content: after;
+    justify-content: space-around;
     align-items: center;
 }
 #heading{
