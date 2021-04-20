@@ -40,6 +40,13 @@ h3{
 .past{
     padding: 02%;
     margin-left: 02%;
+    display: inline;
+    /* flex-direction: column; */
+}
+.past ol{
+    display: flex;
+    justify-content: space-around;
+    
 }
 .lines{
     /* width: 20%; */
