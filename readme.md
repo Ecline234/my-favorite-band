@@ -1,22 +1,20 @@
-# {
-    My Favorite Band Website
-#### {
-    This is a website describing my favorite band:NickleBack and a list of their works over the years,short biographies of the four members and a list of my favorite songs and albums.
-    
-     {04/2021}
-#### By **{
-    Ecline Jeruto Koech
-## Description{
-    This site is about my favorite band of all time,this site helps one to learn and get to know about their songs and also know about the band members 
-## Setup/Installation Requirements*{
-    install a visual studio code and run code
-## Known Bugs{
-    Website works fine,no bugs.
-## Technologies Used{
+# My Favorite Band Website
+#### A website about my favorite band, 04/2021
+#### By **Ecline Jeruto Koech**
+## Description
+This site is about my favorite band of all time,this site helps one to learn and get to know about their songs and also know about the band members 
+## Setup/Installation Requirements
+* Install visual studio code
+* Git clone the repository
+* Ensure to have Live server extension installed
+* Click on Go Live
+## Known Bugs
+Website works fine,no bugs.
+## Technologies Used
 HTML,CSS.
-## Support and contact details{
-    Email Address:eclinejerutokoech@gmail.com 
-### License*MIT License
+## Support and contact details
+Email Address:eclinejerutokoech@gmail.com 
+### License
 
 Copyright (c) [2021] [Ecline Jeruto Koech]
 
